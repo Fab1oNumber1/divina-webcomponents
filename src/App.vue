@@ -1,9 +1,7 @@
 <template>
   <div id="app">
     <div class="content">
-      <fb-gallery
-        wpEndpoint="https://dev.kommpass-staging.ch/wp-json"
-      ></fb-gallery>
+      <fb-presta-product-selection></fb-presta-product-selection>
     </div>
   </div>
 </template>

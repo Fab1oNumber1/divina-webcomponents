@@ -14,11 +14,13 @@
     "qs": "6.6.0",
     "superagent": "4.1.0",
     "vue": "^2.5.22",
+    "vue-property-decorator": "8.0.0",
     "wpapi": "1.2.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
     "@vue/cli-service": "^3.4.0",
+    "@vue/typescript": "3.5.1",
     "vue-template-compiler": "^2.5.21",
     "@babel/polyfill": "7.2.5",
     "vue-custom-element": "3.2.6",
